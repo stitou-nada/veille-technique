@@ -1,0 +1,1 @@
+pour exécuter : go run .\index.go
